@@ -12,7 +12,7 @@ const Navbar = () => {
           </h1>
 
           <p className="text-yellow-300 uppercase text-xs tracking-[3px]">
-            Facility Management Services
+            EduTech
           </p>
         </div>
 
