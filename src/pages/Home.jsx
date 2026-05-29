@@ -188,7 +188,7 @@ const Home = () => {
             </h2>
 
             <p className="mt-6 text-gray-700 text-lg leading-8">
-              Arul Groups Facility Management Services provides
+              Arul Groups EduTech provides
               professional online internship opportunities for
               students and freshers to strengthen practical
               knowledge, industry exposure, and career readiness
@@ -309,11 +309,11 @@ const Home = () => {
           </h2>
 
           <p className="text-yellow-300">
-            Facility Management Services
+            EduTech
           </p>
 
           <p className="mt-4">
-            © 2026 Arul Groups Facility Management Services.
+            © 2026 Arul Groups EduTech.
             All Rights Reserved.
           </p>
 
