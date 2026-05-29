@@ -273,7 +273,7 @@ const Home = () => {
             </h2>
 
             <p className="mt-6 text-lg">
-              📍 1st Floor, Ramanujan IT City, Cambridge Towers, SEZ, SH 49A, Tharamani, Chennai, Tamil Nadu 600113
+              📍 No 28A, PVS Nagar, Shanthi Nikethan Colony, Oggiyam, Thoraipakkam, Tamil Nadu 600097
             </p>
 
             <p className="mt-4 text-lg">
@@ -288,7 +288,7 @@ const Home = () => {
           <div className="rounded-[30px] overflow-hidden shadow-2xl">
             <iframe
               title="map"
-              src="https://www.google.com/maps?q=Ramanujan%20IT%20City%20Chennai&output=embed"
+              src="https://www.google.com/maps?q=No+28A%2C+PVS+Nagar%2C+Shanthi+Nikethan+Colony%2C+Oggiyam%2C+Thoraipakkam%2C+Tamil+Nadu+600097&output=embed"
               width="100%"
               height="350"
               style={{ border: 0 }}
